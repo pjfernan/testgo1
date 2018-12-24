@@ -1,2 +1,3 @@
-probando git y go y vs code
+Probando git y go y vs code
+Ya armamos un repo y lo empujamos a github
 
